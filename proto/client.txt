@@ -1,1 +1,9 @@
-
+create lobbyname sid
+enter enterpid lobbyname sid entername hostname hostpid
+exit sid pid
+confirm pid readystate
+login username pid
+listlobby
+gamestart
+gameover
+backtolobby
