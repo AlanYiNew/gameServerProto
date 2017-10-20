@@ -1,0 +1,7 @@
+create lobbyname
+enter sid
+exit sid
+confirm sid cid wid
+dead 
+login username
+listlobby pageno
