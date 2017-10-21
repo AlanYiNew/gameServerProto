@@ -4,7 +4,7 @@ exit sid pid
 confirm pid readystate
 login username pid
 listlobby
-gamestart spawnpoint playercid playerwid opponentcid opponentwid
+gamestart spawnpoint playercid playerwid opponentcid opponentwid levelid
 gameover playerscore opponentscore
 backtolobby
 score
