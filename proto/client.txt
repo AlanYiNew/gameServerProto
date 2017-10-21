@@ -8,3 +8,4 @@ gamestart playerspawnpoint opponentspawnpoint playercid playerwid opponentcid op
 gameover playerscore opponentscore
 backtolobby
 score
+dead playerspawnpoint
