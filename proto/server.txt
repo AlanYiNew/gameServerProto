@@ -5,3 +5,4 @@ confirm sid cid wid
 dead 
 login username
 listlobby pageno
+backtolobby
